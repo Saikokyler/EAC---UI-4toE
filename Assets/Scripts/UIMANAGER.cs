@@ -22,7 +22,7 @@ public class UIMANAGER : MonoBehaviour
         num1 = int.Parse(InputNum1.text);
         num2 = int.Parse(InputNum2.text);
 
-        // textResultado.text = 
+        // textResultado.text = pencho 
 
         textResultado.text = $"{num1 + num2 }";
 
